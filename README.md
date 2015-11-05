@@ -1,7 +1,7 @@
 # Bugsnag Error Users (a Rake task)
 [![Build Status](https://api.travis-ci.org/repositories/chrisbutcher/bugsnag-error-users.svg)](https://travis-ci.org/chrisbutcher/bugsnag-error-users)
 
-Fetch usernames from Bugsnag error URLs. Something I'd like to see Bugsnag support via their API. Consider this gem a temporary solution.
+Fetch usernames from Bugsnag error URLs. Something I'd like (and have requested) to see Bugsnag support via their API. Consider this gem a temporary solution.
 
 ## Installation
 
